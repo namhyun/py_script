@@ -5,7 +5,6 @@
 import pyHook
 import pygame # or import pythoncom
 import sys
-import urllib2 
 import time
 import re
 
