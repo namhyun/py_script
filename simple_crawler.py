@@ -34,4 +34,4 @@ def crawler(SeedUrl):
                     tocrawl.append(l['href'])
             crawled.append(page)   
     return crawled
-crawler('http://dailysecu.com/')
+crawler('http://www.naver.com/')
